@@ -2,6 +2,7 @@
 UFC Discord Bot
 
 Simple UFC Discord Bot
+Absolutely 0 error handling bc im a shitter
 
 Live updates as fight finishes.
 
