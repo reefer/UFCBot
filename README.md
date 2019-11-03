@@ -5,6 +5,9 @@ Simple UFC Discord Bot
 
 Live updates as fight finishes.
 
+scrapes wikipedia and uses sportradar.us API
+https://developer.sportradar.com/member/register
+
 feel free to fork and update in anyway
 
 Event Search:
